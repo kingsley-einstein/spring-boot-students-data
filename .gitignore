@@ -1,0 +1,6 @@
+#Ignore folder containing jar
+/target 
+
+/.settings
+/.project
+/.classpath
